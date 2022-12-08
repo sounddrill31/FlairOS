@@ -1,6 +1,9 @@
 # Unnamedlinuxdistro
 for artists, WIP, roadmap only
 
+## Version Naming
+I will have a version method to account for incremental updates(example Ver0.1)
+Every increment on the left side of decimal will have a new fancy name(Example Ver1.0 Named Something New)
 
 ## Roadmap(no order)
 1. Wine already set up with a fancy launcher(will take a while)
