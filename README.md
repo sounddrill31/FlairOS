@@ -12,7 +12,7 @@ It should look like this: FlairOS-Ver0.1_22.04_amd64_intel_18.iso
 ## Roadmap(no order)
 1. Wine already set up with a fancy launcher(will take a while)
 2. commonly used creative apps preinstalled(with lite build not containing them)
-3. PopOS fork
+3. PopOS fork and built using cubic
 4. Wikis to teach to visually and functionally customize and also debug known problems  
 5. fancy landscape wallpaper/lockscreens
 6. fancy neofetch designs and OS name
