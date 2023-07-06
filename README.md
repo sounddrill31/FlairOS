@@ -1,4 +1,4 @@
-# Unnamedlinuxdistro
+# FlairOS Desktop
 for artists, WIP, roadmap only
 
 ## Version Naming
